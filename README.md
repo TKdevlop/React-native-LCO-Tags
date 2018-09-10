@@ -3,7 +3,7 @@
 
 ### React Native App clone of LCO Tags Build by Hitesh Choudhary [Download APK](https://drive.google.com/open?id=13HKrfssNZJBYKZUjgsds24TQQ69RXuzt)
 
-### To build in devlopment
+### To build in development
 
 ```bash
 git clone https://github.com/TKdevlop/React-native-LCO-Tags.git
