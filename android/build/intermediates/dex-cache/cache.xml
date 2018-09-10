@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.1_c6186a4986a497fa8da3d93def8de85321bf3581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_846a3bbb9d38619fc1a0c61e346b474ef15b27f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_0ffbd9a1d85faac01953ab124c655f68a2cdd51e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fresco-1.3.0_5c68d6971ef54e1f7018cfb69e64c8b2f61586a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\bolts-tasks-1.4.0_3f5f30f82535bf0de0d0933faf1f83bedaeccb10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_3f5f30f82535bf0de0d0933faf1f83bedaeccb10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_38e820ed1d0cd093281107176338db4b30d428e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\javax.inject-1_76cb0755e5dd21ac3f865adb071fd7995e75c982.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_5c68d6971ef54e1f7018cfb69e64c8b2f61586a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-11.0.4_3639fa48ffb2ebbf8c983cc0b662a130af4d9dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_76cb0755e5dd21ac3f865adb071fd7995e75c982.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_e7dd822830601c3487d0dcb49690cd59b011bbdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\staticlayout-proxy-1.0_ae7c8ddb43266b48978d2bf971456f104ec06c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\!important\sdk-tools-windows-3859397\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1_8b9d51af9c46ac9035ac78eed6c1d22e2d32d04f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_cf80e31423cf9ae44f0e98a8d0f29def165da68b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_a20cff67be2239ffd90e813d0147598ee70d229c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-11.0.4_3cfde087a367ad9cfde2537b1cc18a0885f0d117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_3691bcb4ae59a0971cadd188a35fa3cc86bb28a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\infer-annotations-4.0_363f995aaeaedd302d077b7caecf73c28398207f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\jsr305-3.0.0_2aac7a998f70a1dd701fa2802d1610a2d919ce86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\!important\sdk-tools-windows-3859397\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_d255d3df373c4890ecc35c3b4e0d9f765faac3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_846a3bbb9d38619fc1a0c61e346b474ef15b27f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\com.facebook.soloader-soloader-0.1.0_e7dd822830601c3487d0dcb49690cd59b011bbdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_ae7c8ddb43266b48978d2bf971456f104ec06c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\com.facebook.react-react-native-0.55.4_6114cacb17e5d1a90f0ea4e94b4c70e72c6b6c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_eb68e637407f35b99eb1a879a776e966f9b19dbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_e518aecb6eae2ba2a2725a61fce955d48db4ca98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.2\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_6c445ac847b411e8b508c970ae52695b7164159d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_2aac7a998f70a1dd701fa2802d1610a2d919ce86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-1.3.0_eb68e637407f35b99eb1a879a776e966f9b19dbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-11.0.4_d1f7059a9dff93cfe6bca1bb850fe5fd3423f283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_04daf42ae7e1f25f4d2e01a3b56ebe492a4f3d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_e38214093c395505618a2b3fd107709e9d25acc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_f45af7d16a9c8813877213c08a9318735c733dca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-drawee-1.3.0_7d940fd25edebe87b1f1d227fd5ed1c53728056e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_bdc8bdfce8db729a504d703d4acf88b5d9b47153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_77214d13eb6e0da5edd0af7a8570b3c707b474de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-11.0.4_630ac9b57e720a806ba4d69ca514a99c6f216ea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_eae1ea64d85bf52e45258e832255206eee3714d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_7d940fd25edebe87b1f1d227fd5ed1c53728056e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_26ed29c08205fc2e5881a1ce22851265f652e911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\okhttp-urlconnection-3.6.0_a20cff67be2239ffd90e813d0147598ee70d229c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_4d177a71bf072346768299b45fc6e2fec72f53ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-base-1.3.0_f45af7d16a9c8813877213c08a9318735c733dca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\okhttp-3.6.0_8bf699496be83c32906bbb5465da49f7a1bf30a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\okio-1.13.0_3691bcb4ae59a0971cadd188a35fa3cc86bb28a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\LCO\react-native-admob\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="21449f13b1d382578eab07fb71a847f5b7e8ed12">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\LCO-react-native-admob-unspecified_2ddeb210c2b6abc2e712867b57434e5cc48f06c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_299f82bb1ab32a22c9427c16d1b6d2d716334a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1_10b28d2aaf1c2e40a3cda24339fca269f1257b56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_8bf699496be83c32906bbb5465da49f7a1bf30a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="0e9d3a3d3a781fe8fe55b743c397ae7f097c21b0">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.2_3e1e7c6e3bd157f9ecb687e88b640bde6fede92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-11.0.4_6b6def8fb07f6bdfd59fa951c9a2e0e382738f37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\LCO\react-native-splash-screen\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="8157618a5b248f10354e1dbfa44ddef9e617da42">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\LCO-react-native-splash-screen-unspecified_e6fd9720bbd1870b9f4a68c17901f345c8b16dbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.0.1_f1d623c88dd634289d786e7d0930037783d55807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_e9c519e08a215f964f1cce69e3f979ff3d9bcf95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_77214d13eb6e0da5edd0af7a8570b3c707b474de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fbcore-1.3.0_eae1ea64d85bf52e45258e832255206eee3714d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\Tushar\Desktop\LCO\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_56fc6fc540819a2ca5ac60c05cea0375d2684138.jar" />
+    </item>
+
+</items>
