@@ -10,7 +10,7 @@ git clone https://github.com/TKdevlop/React-native-LCO-Tags.git
 
 npm install
 
-npm run android(run it on an android simulater)
+npm run android(run it on an android simulator)
 
 num run ios(run it on X-code)
 ```
